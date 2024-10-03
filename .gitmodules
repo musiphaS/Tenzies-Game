@@ -1,3 +1,3 @@
-[submodule "my-app-tenzies-game"]
+    [submodule "my-app-tenzies-game"]
     path = my-app-tenzies-game
     url = https://github.com/musiphaS/my-app-tenzies-game.git
